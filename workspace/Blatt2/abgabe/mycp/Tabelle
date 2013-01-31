@@ -1,0 +1,26 @@
+Ausfuehrung		runtime	runtime	runtime		Datei
+mit buffersize		real	user	sys		14 MB
+----------------------------------------------------
+1			18.660s	0.784s	17.869s
+2			10.653s	0.512s	10.133s
+4			5.424s	0.268s	5.148s
+8			2.766s	0.160s	2.604s
+16			1.193s	0.076s	1.112s
+32			0.621s	0.056s	0.560s
+64			0.388s	0.008s	0.364s
+128			0.360s	0.008s	0.348s
+256			0.182s	0.012s	0.164s
+512			0.111s	0.000s	0.108s
+1024			0.056s	0.000s	0.052s
+2048			0.097s	0.000s	0.052s
+4096			0.354s	0.000s	0.236s
+8192			0.033s	0.000s	0.032s
+...
+verdoppelt man die genutzte puffergroesse, halbiert sich die
+laufzeit in etwa.
+es werden nur noch halb soviele TRAP befehle bzw. wechsel 
+zwischen user und kernel mode gemacht.
+
+real time = vergangene echtzeit waehrend des aufrufs
+user time = zeit die um usermodus verbracht wurde
+sys time = zeit die im kernelmodus verbracht wurde

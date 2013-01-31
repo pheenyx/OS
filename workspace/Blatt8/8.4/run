@@ -1,0 +1,3 @@
+#!/bin/bash
+./erzeug p &
+./verbr p &

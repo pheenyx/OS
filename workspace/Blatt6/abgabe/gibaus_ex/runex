@@ -1,0 +1,4 @@
+#!/bin/bash
+./gibaus_ex A 1 &
+./gibaus_ex B 1 &
+./gibaus_ex C 1 &

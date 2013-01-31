@@ -1,0 +1,4 @@
+#!/bin/bash
+./erzeug p 1 5 2 &
+./erzeug p 10 3 1 &
+./verbr p &

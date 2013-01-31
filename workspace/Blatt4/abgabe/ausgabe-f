@@ -1,0 +1,99 @@
+Thu Dec  6 13:39:11 CET 2012
+Thu Dec  6 13:39:11 CET 2012
+Sohn_2:	pid: 6319	ppid: 6317
+.Thu Dec  6 13:39:12 CET 2012
+S   UID   PID  PPID  C PRI  NI   RSS    SZ WCHAN  TTY          TIME CMD
+S  1000  2103  2101  0  80   0  9368  7078 wait   pts/1    00:00:00 bash
+S  1000  6317  2103  0  80   0   352  1040 wait   pts/1    00:00:00 vater
+S  1000  6318  6317  0  80   0   356  1040 hrtime pts/1    00:00:00 sohn1
+R  1000  6319  6317 99  80   0   352  1040 -      pts/1    00:00:01 sohn2
+S  1000  6326  6317  0  80   0   604  1100 wait   pts/1    00:00:00 sh
+R  1000  6327  6326  0  80   0   776  2432 -      pts/1    00:00:00 ps
+.Thu Dec  6 13:39:13 CET 2012
+S   UID   PID  PPID  C PRI  NI   RSS    SZ WCHAN  TTY          TIME CMD
+S  1000  2103  2101  0  80   0  9368  7078 wait   pts/1    00:00:00 bash
+S  1000  6317  2103  0  80   0   352  1040 wait   pts/1    00:00:00 vater
+S  1000  6318  6317  0  80   0   356  1040 hrtime pts/1    00:00:00 sohn1
+R  1000  6319  6317 99  80   0   352  1040 -      pts/1    00:00:02 sohn2
+S  1000  6330  6317  0  80   0   604  1100 wait   pts/1    00:00:00 sh
+R  1000  6331  6330  0  80   0   780  2432 -      pts/1    00:00:00 ps
+.Thu Dec  6 13:39:14 CET 2012
+S   UID   PID  PPID  C PRI  NI   RSS    SZ WCHAN  TTY          TIME CMD
+S  1000  2103  2101  0  80   0  9368  7078 wait   pts/1    00:00:00 bash
+S  1000  6317  2103  0  80   0   352  1040 wait   pts/1    00:00:00 vater
+S  1000  6318  6317  0  80   0   356  1040 hrtime pts/1    00:00:00 sohn1
+R  1000  6319  6317 99  80   0   352  1040 -      pts/1    00:00:03 sohn2
+S  1000  6334  6317  0  80   0   604  1100 wait   pts/1    00:00:00 sh
+R  1000  6335  6334  0  80   0   780  2432 -      pts/1    00:00:00 ps
+.Thu Dec  6 13:39:15 CET 2012
+S   UID   PID  PPID  C PRI  NI   RSS    SZ WCHAN  TTY          TIME CMD
+S  1000  2103  2101  0  80   0  9368  7078 wait   pts/1    00:00:00 bash
+S  1000  6317  2103  0  80   0   352  1040 wait   pts/1    00:00:00 vater
+S  1000  6318  6317  0  80   0   356  1040 hrtime pts/1    00:00:00 sohn1
+R  1000  6319  6317 99  80   0   352  1040 -      pts/1    00:00:04 sohn2
+S  1000  6338  6317  0  80   0   604  1100 wait   pts/1    00:00:00 sh
+R  1000  6339  6338  0  80   0   780  2432 -      pts/1    00:00:00 ps
+.Thu Dec  6 13:39:16 CET 2012
+S   UID   PID  PPID  C PRI  NI   RSS    SZ WCHAN  TTY          TIME CMD
+S  1000  2103  2101  0  80   0  9368  7078 wait   pts/1    00:00:00 bash
+S  1000  6317  2103  0  80   0   352  1040 wait   pts/1    00:00:00 vater
+S  1000  6318  6317  0  80   0   356  1040 hrtime pts/1    00:00:00 sohn1
+R  1000  6319  6317 99  80   0   352  1040 -      pts/1    00:00:05 sohn2
+S  1000  6342  6317  0  80   0   604  1100 wait   pts/1    00:00:00 sh
+R  1000  6343  6342  0  80   0   780  2432 -      pts/1    00:00:00 ps
+.Thu Dec  6 13:39:17 CET 2012
+S   UID   PID  PPID  C PRI  NI   RSS    SZ WCHAN  TTY          TIME CMD
+S  1000  2103  2101  0  80   0  9368  7078 wait   pts/1    00:00:00 bash
+S  1000  6317  2103  0  80   0   480  1040 wait   pts/1    00:00:00 vater
+S  1000  6318  6317  0  80   0   356  1040 hrtime pts/1    00:00:00 sohn1
+R  1000  6319  6317 99  80   0   352  1040 -      pts/1    00:00:06 sohn2
+S  1000  6346  6317  0  80   0   600  1100 wait   pts/1    00:00:00 sh
+R  1000  6347  6346  0  80   0   776  2432 -      pts/1    00:00:00 ps
+.Thu Dec  6 13:39:18 CET 2012
+S   UID   PID  PPID  C PRI  NI   RSS    SZ WCHAN  TTY          TIME CMD
+S  1000  2103  2101  0  80   0  9368  7078 wait   pts/1    00:00:00 bash
+S  1000  6317  2103  0  80   0   480  1040 wait   pts/1    00:00:00 vater
+S  1000  6318  6317  0  80   0   356  1040 hrtime pts/1    00:00:00 sohn1
+R  1000  6319  6317 99  80   0   352  1040 -      pts/1    00:00:07 sohn2
+S  1000  6350  6317  0  80   0   604  1100 wait   pts/1    00:00:00 sh
+R  1000  6351  6350  0  80   0   780  2432 -      pts/1    00:00:00 ps
+.Thu Dec  6 13:39:19 CET 2012
+S   UID   PID  PPID  C PRI  NI   RSS    SZ WCHAN  TTY          TIME CMD
+S  1000  2103  2101  0  80   0  9368  7078 wait   pts/1    00:00:00 bash
+S  1000  6317  2103  0  80   0   480  1040 wait   pts/1    00:00:00 vater
+S  1000  6318  6317  0  80   0   356  1040 hrtime pts/1    00:00:00 sohn1
+R  1000  6319  6317 99  80   0   352  1040 -      pts/1    00:00:08 sohn2
+S  1000  6354  6317  0  80   0   600  1100 wait   pts/1    00:00:00 sh
+R  1000  6355  6354  0  80   0   780  2432 -      pts/1    00:00:00 ps
+.Thu Dec  6 13:39:20 CET 2012
+S   UID   PID  PPID  C PRI  NI   RSS    SZ WCHAN  TTY          TIME CMD
+S  1000  2103  2101  0  80   0  9368  7078 wait   pts/1    00:00:00 bash
+S  1000  6317  2103  0  80   0   480  1040 wait   pts/1    00:00:00 vater
+S  1000  6318  6317  0  80   0   356  1040 hrtime pts/1    00:00:00 sohn1
+R  1000  6319  6317 99  80   0   352  1040 -      pts/1    00:00:09 sohn2
+S  1000  6358  6317  0  80   0   604  1100 wait   pts/1    00:00:00 sh
+R  1000  6359  6358  0  80   0   776  2432 -      pts/1    00:00:00 ps
+.
+Sohn_1:	pid: 6318	ppid: 6317
+Thu Dec  6 13:39:21 CET 2012
+S   UID   PID  PPID  C PRI  NI   RSS    SZ WCHAN  TTY          TIME CMD
+S  1000  2103  2101  0  80   0  9368  7078 wait   pts/1    00:00:00 bash
+S  1000  6317  2103  0  80   0   480  1040 wait   pts/1    00:00:00 vater
+Z  1000  6318  6317  0  80   0     0     0 exit   pts/1    00:00:00 sohn1 <defunct>
+Z  1000  6319  6317 99  80   0     0     0 exit   pts/1    00:00:09 sohn2 <defunct>
+S  1000  6362  6317  0  80   0   604  1100 wait   pts/1    00:00:00 sh
+R  1000  6363  6362  0  80   0   776  2432 -      pts/1    00:00:00 ps
+Thu Dec  6 13:39:22 CET 2012
+S   UID   PID  PPID  C PRI  NI   RSS    SZ WCHAN  TTY          TIME CMD
+S  1000  2103  2101  0  80   0  9368  7078 wait   pts/1    00:00:00 bash
+S  1000  6317  2103  0  80   0   480  1040 wait   pts/1    00:00:00 vater
+Z  1000  6318  6317  0  80   0     0     0 exit   pts/1    00:00:00 sohn1 <defunct>
+Z  1000  6319  6317 90  80   0     0     0 exit   pts/1    00:00:09 sohn2 <defunct>
+S  1000  6366  6317  0  80   0   600  1100 wait   pts/1    00:00:00 sh
+R  1000  6367  6366  0  80   0   780  2432 -      pts/1    00:00:00 ps
+Thu Dec  6 13:39:22 CET 2012
+Thu Dec  6 13:39:22 CET 2012
+Thu Dec  6 13:39:22 CET 2012
+Vater: 	pid: 6317	pid sohn1: 6318	pid sohn2: 6319
+Sohn 1 fertig, pid: 6318
+Sohn 2 fertig, pid: 6319

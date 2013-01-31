@@ -1,0 +1,3 @@
+int mult( int i, int j );
+
+int div( int i, int j );
